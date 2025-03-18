@@ -49,7 +49,7 @@ export default function ExperiencePage() {
             
             <div className="flex flex-col items-center mb-6 mt-4">
               <h1 className="text-2xl font-bold text-white text-center font-mono w-full bg-clip-text text-transparent bg-gradient-to-r from-white to-white/80">
-                Developer & Moderator
+                Experience
               </h1>
             </div>
 
