@@ -60,7 +60,7 @@ export default function ExperiencePage() {
                   <span className="text-yellow-300 font-semibold mr-2 font-mono">Owner</span>
                   <span className="text-gray-400 font-mono">- Stan Umysłu 2023/08/14 - current</span>
                 </div>
-                <span className="text-fuchsia-400 font-semibold font-mono">100+</span>
+                <span className="text-fuchsia-400 font-semibold font-mono">400+</span>
               </div>
 
               <div className="flex flex-wrap justify-between items-center glass-card rounded-xl p-3 hover:translate-y-[-2px] transition-all duration-300">
@@ -69,7 +69,7 @@ export default function ExperiencePage() {
                   <span className="text-gray-400 font-mono">- Gold Star 2023/04/10 - current</span>
                   <span className="text-red-500 ml-2 font-mono">Closed</span>
                 </div>
-                <span className="text-fuchsia-400 font-semibold font-mono">500+</span>
+                <span className="text-fuchsia-400 font-semibold font-mono">800+</span>
               </div>
 
               {/* Developer Roles */}
@@ -78,7 +78,7 @@ export default function ExperiencePage() {
                   <span className="text-purple-500 font-semibold mr-2 font-mono">Developer</span>
                   <span className="text-gray-400 font-mono">- Mysia Nora 2022/12/09 - 2023/07/20</span>
                 </div>
-                <span className="text-fuchsia-400 font-semibold font-mono">2800+</span>
+                <span className="text-fuchsia-400 font-semibold font-mono">3800+</span>
               </div>
 
               <div className="flex flex-wrap justify-between items-center glass-card rounded-xl p-3 hover:translate-y-[-2px] transition-all duration-300">
@@ -86,7 +86,7 @@ export default function ExperiencePage() {
                   <span className="text-purple-500 font-semibold mr-2 font-mono">Developer</span>
                   <span className="text-gray-400 font-mono">- Owieczkomania 2022/10/01 - 2023/05/10</span>
                 </div>
-                <span className="text-fuchsia-400 font-semibold font-mono">1000+</span>
+                <span className="text-fuchsia-400 font-semibold font-mono">3000+</span>
               </div>
 
               {/* Administrator Role */}
@@ -95,7 +95,7 @@ export default function ExperiencePage() {
                   <span className="text-red-500 font-semibold mr-2 font-mono">Administrator</span>
                   <span className="text-gray-400 font-mono">- Freemc 2021/01/14 - 2022/04/30</span>
                 </div>
-                <span className="text-fuchsia-400 font-semibold font-mono">10000+</span>
+                <span className="text-fuchsia-400 font-semibold font-mono">15000+</span>
               </div>
 
               {/* Moderator Roles */}
@@ -104,7 +104,7 @@ export default function ExperiencePage() {
                   <span className="text-blue-400 font-semibold mr-2 font-mono">Moderator</span>
                   <span className="text-gray-400 font-mono">- Social Media Polska 2022/12/23 - 2023/05/10</span>
                 </div>
-                <span className="text-fuchsia-400 font-semibold font-mono">7800+</span>
+                <span className="text-fuchsia-400 font-semibold font-mono">10000+</span>
               </div>
 
               <div className="flex flex-wrap justify-between items-center glass-card rounded-xl p-3 hover:translate-y-[-2px] transition-all duration-300">
@@ -120,7 +120,7 @@ export default function ExperiencePage() {
                   <span className="text-blue-400 font-semibold mr-2 font-mono">Moderator</span>
                   <span className="text-gray-400 font-mono">- Paradise 2022/12/30 - 2023/09/05</span>
                 </div>
-                <span className="text-fuchsia-400 font-semibold font-mono">3500+</span>
+                <span className="text-fuchsia-400 font-semibold font-mono">5000+</span>
               </div>
 
               <div className="flex flex-wrap justify-between items-center glass-card rounded-xl p-3 hover:translate-y-[-2px] transition-all duration-300">
@@ -128,7 +128,7 @@ export default function ExperiencePage() {
                   <span className="text-blue-400 font-semibold mr-2 font-mono">Moderator</span>
                   <span className="text-gray-400 font-mono">- Blokowa.pl 2023/06/29 - current</span>
                 </div>
-                <span className="text-fuchsia-400 font-semibold font-mono">15000+</span>
+                <span className="text-fuchsia-400 font-semibold font-mono">20000+</span>
               </div>
 
               {/* Support Roles */}
