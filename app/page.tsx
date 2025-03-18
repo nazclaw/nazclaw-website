@@ -60,11 +60,6 @@ export default function NeonPortfolio() {
         {/* Subtle inner border glow */}
         <div className="absolute inset-0 border border-white/5 rounded-3xl pointer-events-none"></div>
         
-        {/* Hacker terminal effect */}
-        <div className="absolute top-5 left-5 flex items-center gap-2 opacity-70">
-          <Terminal size={14} className="text-fuchsia-400" />
-          <span className="text-fuchsia-400 text-xs font-mono tracking-wide">root@nazclaw:~# whoami</span>
-        </div>
         
         <div className="relative mt-4">
           <div className="absolute inset-0 w-24 h-24 rounded-full bg-gradient-to-r from-violet-600 to-indigo-600 blur-md opacity-50 animate-pulse-slow"></div>

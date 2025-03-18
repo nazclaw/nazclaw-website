@@ -46,11 +46,6 @@ export default function ExperiencePage() {
               }}
             ></div>
 
-            {/* Hacker terminal effect */}
-            <div className="absolute top-5 left-5 flex items-center gap-2 opacity-70">
-              <Terminal size={14} className="text-fuchsia-400" />
-              <span className="text-fuchsia-400 text-xs font-mono tracking-wide">root@nazclaw:~# cd /experience</span>
-            </div>
             
             <div className="flex flex-col items-center mb-6 mt-4">
               <h1 className="text-2xl font-bold text-white text-center font-mono w-full bg-clip-text text-transparent bg-gradient-to-r from-white to-white/80">
