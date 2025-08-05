@@ -103,7 +103,7 @@ export default function ExperiencePage() {
                   <span className="text-red-500 font-semibold mr-2 font-mono">Administrator</span>
                   <span className="text-gray-400 font-mono">- Blokowo.pl 2023/06/29 - current</span>
                 </div>
-                <span className="text-fuchsia-400 font-semibold font-mono">25000+</span>
+                <span className="text-fuchsia-400 font-semibold font-mono">35000+</span>
               </div>
 
               {/* Moderator Roles */}
