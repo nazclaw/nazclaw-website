@@ -58,9 +58,10 @@ export default function ExperiencePage() {
               <div className="flex flex-wrap justify-between items-center glass-card rounded-xl p-3 hover:translate-y-[-2px] transition-all duration-300">
                 <div>
                   <span className="text-yellow-300 font-semibold mr-2 font-mono">Owner</span>
-                  <span className="text-gray-400 font-mono">- Stan Umysłu 2023/08/14 - current</span>
+                  <span className="text-gray-400 font-mono">- Stan Umysłu 2023/08/14 - 2025/08/01</span>
+                  <span className="text-red-500 ml-2 font-mono">Closed</span>
                 </div>
-                <span className="text-fuchsia-400 font-semibold font-mono">400+</span>
+                <span className="text-fuchsia-400 font-semibold font-mono">500+</span>
               </div>
 
               <div className="flex flex-wrap justify-between items-center glass-card rounded-xl p-3 hover:translate-y-[-2px] transition-all duration-300">
